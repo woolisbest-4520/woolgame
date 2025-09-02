@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('assets/background.jpg');
+    background-size: cover;
+}
+
+#game-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#cookie-btn img {
+    width: 200px;
+    cursor: pointer;
+}
+
+#cookie-count {
+    font-size: 24px;
+    margin-top: 20px;
+}
